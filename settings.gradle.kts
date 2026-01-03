@@ -30,3 +30,8 @@ dependencyResolutionManagement {
 
 include(":composeApp")
 include(":log")
+include(":permissions")
+include(":sp")
+include(":https")
+include(":ble")
+include(":kmpflutter")
